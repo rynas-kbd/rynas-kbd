@@ -37,7 +37,7 @@ Everything I know, I learned by doing.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rynas-kebdi-526b70364)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rynaskebdi.pro@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sayniir)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discord://-/users/667026657567178772)
 [![](https://visitcount.itsvg.in/api?id=sayniir&icon=2&color=6)](https://visitcount.itsvg.in)
 
 </div>
