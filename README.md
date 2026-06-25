@@ -27,9 +27,9 @@ Everything I know, I learned by doing.
 
 ## 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sayniir&theme=swift&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sayniir&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayniir&theme=swift&hide_border=true&layout=compact&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=rynas-kbd&theme=swift&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rynas-kbd&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rynas-kbd&theme=swift&hide_border=true&layout=compact&include_all_commits=true&count_private=true)
 
 ---
 
@@ -38,6 +38,6 @@ Everything I know, I learned by doing.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rynas-kebdi-526b70364)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rynaskebdi.pro@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/667026657567178772)
-[![](https://visitcount.itsvg.in/api?id=sayniir&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rynas-kbd&icon=2&color=6)](https://visitcount.itsvg.in)
 
 </div>
