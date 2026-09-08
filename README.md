@@ -81,9 +81,9 @@ I'm particularly interested in building independent internet businesses and usin
 
 ### Building. Learning. Shipping.
 
-*The goal isn't to know everything.*
+*The goal isn't to be perfect.*
 
-**The goal is to become someone who can build anything.**
+**The goal is to be free.**
 
 <br/>
 
