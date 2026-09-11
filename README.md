@@ -4,7 +4,7 @@
 
 ### Builder · Entrepreneur · AI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&pause=1000\&color=C9A96E\&center=true\&vCenter=true\&width=650\&lines=Build+at+the+intersection+of+AI%2C+technology+and+business.;Turning+ideas+into+products.;Learning.+Building.+Shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&pause=1000\&color=C9A96E\&center=true\&vCenter=true\&width=650\&lines=BBuilding+at+the+intersection+of+AI%2C+technology+and+business.;Turning+ideas+into+products.;Learning.+Building.+Shipping.)](https://git.io/typing-svg)
 
 <br/>
 
