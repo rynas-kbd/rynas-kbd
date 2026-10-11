@@ -1,77 +1,50 @@
+# `rynas-kbd`
+
 <div align="center">
 
-# Hey, I'm Rynas 👋
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=I+build+things.+Sometimes+they+work.;Turning+ideas+into+actual+products.;Code%2C+AI%2C+and+a+bit+of+chaos." alt="Typing SVG" />
 
-### Builder · Entrepreneur · AI Enthusiast
+**17 · Algeria 🇩🇿 · Developer & Indie Builder**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&pause=1000\&color=C9A96E\&center=true\&vCenter=true\&width=650\&lines=BBuilding+at+the+intersection+of+AI%2C+technology+and+business.;Turning+ideas+into+products.;Learning.+Building.+Shipping.)](https://git.io/typing-svg)
-
-<br/>
-
-**🇩🇿 Algeria**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rynas-kebdi-526b70364)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:rynaskebdi.pro@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square\&logo=discord\&logoColor=white)](https://discord.com/users/667026657567178772)
+[Website](https://xenondz.com) · [LinkedIn](https://www.linkedin.com/in/rynas-kebdi-526b70364) · [Email](mailto:rynaskebdi.pro@gmail.com) · [Discord](https://discord.com/users/667026657567178772)
 
 </div>
 
 ---
 
-## About me
+### `$ whoami`
 
-I'm a **builder from Algeria** interested in the intersection of **technology, artificial intelligence and entrepreneurship**.
+I'm a developer from Algeria building my way into the world of software and AI.
 
-I build websites, software, digital products and experiments — with one objective:
+I like taking ideas that exist only in my head and turning them into things people can actually use.
 
-> **Turn ideas into things that actually exist.**
+Currently experimenting with **SaaS, AI automation, and independent businesses.**
 
-I'm particularly interested in building independent internet businesses and using AI to create better products.
+No guru stuff. No pretending to have everything figured out. Just building, breaking things, and getting better.
 
----
+### `$ ls ~/projects`
 
-## ⚡ Currently
+| Project | What it is |
+|:--|:--|
+| **Raddlly** | AI-powered messaging and order automation for online sellers |
+| **Xenon** | Web development, software and AI automation |
+| **Experiments** | Random ideas that might turn into something useful |
 
-```text
-→ Building digital products & SaaS
-→ Exploring AI & software development
-→ Growing as an entrepreneur
-→ Learning how to build, market and ship products
-→ Documenting the journey
-```
-
----
-
-## 🛠 Tech Stack
+### `$ cat stack.txt`
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,supabase,git,github&theme=dark" alt="Tech stack" />
 
 </div>
 
----
-
-## 📈 GitHub
+### `$ git status`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rynas-kbd&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rynas-kbd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rynas-kbd&hide_border=true&theme=transparent"/>
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynas-kbd&layout=compact&hide_border=true&theme=transparent"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynas-kbd&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Most used languages" />
 
 </div>
 
@@ -79,14 +52,12 @@ I'm particularly interested in building independent internet businesses and usin
 
 <div align="center">
 
-### Building. Learning. Shipping.
+`[ BUILD → BREAK → LEARN → REPEAT ]`
 
-*The goal isn't to be perfect.*
+*The goal isn't to look successful.*
 
-**The goal is to be free.**
+*It's to build enough freedom to live on my own terms.*
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=rynas-kbd&style=flat-square&color=C9A96E&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=rynas-kbd&style=flat-square&color=a78bfa&label=visitors" alt="Profile views" />
 
 </div>
