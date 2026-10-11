@@ -1,10 +1,17 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:171329,50:49256f,100:bd365e&text=RYNAS&fontColor=ffffff&fontSize=64&fontAlignY=55&desc=code%20%2F%20anime%20%2F%20cinema%20%2F%20sport&descSize=15&descAlignY=78" width="100%" />
+<div align="center">
+
+<div align="center">
+  <img
+    src="https://media1.tenor.com/m/CRzaqvyHyWsAAAAd/%D0%BA%D0%B8%D1%80%D0%B8%D1%82%D0%BE-%D1%81%D0%BF%D0%B8%D1%82.gif"
+    width="100%"
+    alt="Kirito sleeping"
+  />
+</div>
 
 ### just a guy building stuff and enjoying life.
 
-[LinkedIn](https://www.linkedin.com/in/rynas-kebdi-526b70364) · [Discord](https://discord.com/users/667026657567178772) · [Email](mailto:rynaskebdi.pro@gmail.com) · [Instagram](https://www.instagram.com/itssrynas/) · [Tiktok](https://www.tiktok.com/@itsrynas)
+[LinkedIn](https://www.linkedin.com/in/rynas-kebdi-526b70364) · [Discord](https://discord.com/users/667026657567178772) · [Email](mailto:rynaskebdi.pro@gmail.com) · [Instagram](https://www.instagram.com/itssrynas/) · [TikTok](https://www.tiktok.com/@itsrynas)
 
 </div>
 
@@ -15,6 +22,10 @@
 I like ambitious projects, complicated characters, great cinematography and the feeling of getting better at something.
 
 Currently building things with **AI, software and a lot of trial and error.**
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/CRzaqvyHyWsAAAAd/%D0%BA%D0%B8%D1%80%D0%B8%D1%82%D0%BE-%D1%81%D0%BF%D0%B8%D1%82.gif" width="420" alt="Kirito sleeping GIF" />
+</div>
 
 ### things I spend time on
 
