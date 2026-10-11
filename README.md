@@ -2,11 +2,7 @@
 <div align="center">
 
 <div align="center">
-  <img
-    src="https://media1.tenor.com/m/CRzaqvyHyWsAAAAd/%D0%BA%D0%B8%D1%80%D0%B8%D1%82%D0%BE-%D1%81%D0%BF%D0%B8%D1%82.gif"
-    width="100%"
-    alt="Kirito sleeping"
-  />
+  <img src="https://media1.tenor.com/m/CRzaqvyHyWsAAAAd/%D0%BA%D0%B8%D1%80%D0%B8%D1%82%D0%BE-%D1%81%D0%BF%D0%B8%D1%82.gif" width="420" alt="Kirito sleeping GIF" />
 </div>
 
 ### just a guy building stuff and enjoying life.
@@ -22,10 +18,6 @@
 I like ambitious projects, complicated characters, great cinematography and the feeling of getting better at something.
 
 Currently building things with **AI, software and a lot of trial and error.**
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/CRzaqvyHyWsAAAAd/%D0%BA%D0%B8%D1%80%D0%B8%D1%82%D0%BE-%D1%81%D0%BF%D0%B8%D1%82.gif" width="420" alt="Kirito sleeping GIF" />
-</div>
 
 ### things I spend time on
 
