@@ -49,5 +49,7 @@ Currently building things with **AI, software and a lot of trial and error.**
 <div align="center">
 
 *still figuring things out. that's the fun part.*
+*just do it.*
+
 
 </div>
