@@ -24,7 +24,7 @@ Currently building things with **AI, software and a lot of trial and error.**
 - 💻 Building software & experimenting with AI
 - 🎬 Cinema, filmmaking & stories that stay with you
 - 🍥 Anime, psychological mind games & character development
-- 🏋️ Gym, calisthenics & pushing my limits
+- 🏋️ Gym, calisthenics & pushing my limits !
 
 ### stuff I use
 
