@@ -34,7 +34,7 @@ Currently building things with **AI, software and a lot of trial and error.**
 
 </div>
 
-### github, apparently
+### github, apparently..
 
 <div align="center">
 
