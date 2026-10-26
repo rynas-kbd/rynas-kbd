@@ -2,7 +2,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/CRzaqvyHyWsAAAAd/%D0%BA%D0%B8%D1%80%D0%B8%D1%82%D0%BE-%D1%81%D0%BF%D0%B8%D1%82.gif" width="420" alt="Kirito sleeping GIF" />
+  <img src="https://media1.tenor.com/m/CRzaqvyHyWsAAAAd/%D0%BA%D0%B8%D1%80%D0%B8%D1%82%D0%BE-%D1%81%D0%BF%D0%B8%D1%82.gif" width="420" alt="Kirito sleeping" />
 </div>
 
 ### just a guy building stuff and enjoying his life.
