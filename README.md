@@ -5,7 +5,7 @@
   <img src="https://media1.tenor.com/m/CRzaqvyHyWsAAAAd/%D0%BA%D0%B8%D1%80%D0%B8%D1%82%D0%BE-%D1%81%D0%BF%D0%B8%D1%82.gif" width="420" alt="Kirito sleeping" />
 </div>
 
-### just a guy building stuff and enjoying his life.
+### just a guy who builds stuff and enjoyes his life!
 
 [LinkedIn](https://www.linkedin.com/in/rynas-kebdi-526b70364) · [Discord](https://discord.com/users/667026657567178772) · [Email](mailto:rynaskebdi.pro@gmail.com) · [Instagram](https://www.instagram.com/itssrynas/) · [TikTok](https://www.tiktok.com/@itsrynas)
 
